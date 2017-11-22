@@ -1,3 +1,7 @@
+=begin
+I chose to write this code in Ruby because Spotlight loves Ruby.
+=end
+
 random_topic = ["Hey, could you work on " + ["making Wii Mail use Docker", "something related to the EVC", "fixing 221001 for KcrPL", "a cool video", "RC24 Bot", "something new"].sample + "?",
                 "Do you want to play a game?",
                 "Want to talk?",
