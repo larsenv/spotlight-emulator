@@ -96,4 +96,4 @@ puts "Larsenv: " + random_larsenv_response
 puts spotlight_name + ": " + random_spotlight_response_2
 puts "Larsenv: " + "OK"
 puts spotlight_name + ": " + "/afk " + random_spotlight_afk_message
-puts "Spectra: ✅ " + spotlight_name + " has gone AFK"
+puts "Spectra: ✅  " + spotlight_name + " has gone AFK"
