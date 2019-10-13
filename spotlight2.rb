@@ -4,4 +4,4 @@ message = gets
 
 puts ""
 print spotlight_name + ": "
-puts ["ayy", "a", "ah", "ah alright", "alright", "e", "eep", "enjoy", "heh", "LMFAO", "Lmao", "lmao", "lol", "lolol", "xD", "xd"].sample
+puts ["ayy", "a", "ah", "ah alright", "alright", "alright", "e", "eep", "enjoy", "heh", "huh", "LMFAO", "Lmao", "lmao", "lol", "lolol", "oh", "oh, heh", "oh, huh", "shrug", "?sure", "xD", "xd"].sample
